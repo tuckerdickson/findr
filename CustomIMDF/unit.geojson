@@ -1,0 +1,4985 @@
+{
+  "type": "FeatureCollection",
+  "name": "unit",
+  "features": [
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "6382938a-b59b-4631-b2ea-54ddd13562a3",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53741951023787,
+            41.659966743458625
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1414",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53739438780201,
+              41.659983948411764
+            ],
+            [
+              -91.53739229426569,
+              41.65994953850091
+            ],
+            [
+              -91.53744253913779,
+              41.65994953850091
+            ],
+            [
+              -91.53744253913779,
+              41.659983948411764
+            ],
+            [
+              -91.53739438780201,
+              41.659983948411764
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "4e930925-3206-44d6-bf49-fc550296f8e4",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53741977116496,
+            41.65993972718795
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1416",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744044560145,
+              41.65994953850091
+            ],
+            [
+              -91.53739438780201,
+              41.65994953850091
+            ],
+            [
+              -91.53739229426569,
+              41.659927641275345
+            ],
+            [
+              -91.53744253913779,
+              41.659927641275345
+            ],
+            [
+              -91.53744044560145,
+              41.65994953850091
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "ef01472e-429c-4ddf-a024-2784e0bcc92f",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53741553691748,
+            41.65991600153737
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1418",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744094240275,
+              41.659927073508726
+            ],
+            [
+              -91.53739436568009,
+              41.659927073508726
+            ],
+            [
+              -91.53739224855636,
+              41.65990176614284
+            ],
+            [
+              -91.53742823966031,
+              41.65990176614284
+            ],
+            [
+              -91.53742823966031,
+              41.659908092985205
+            ],
+            [
+              -91.53744094240275,
+              41.659908092985205
+            ],
+            [
+              -91.53744094240275,
+              41.659927073508726
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "4bc098b9-8584-4d29-ab56-d78852ccfb3f",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53741341979375,
+            41.6598891124562
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1420",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744305952648,
+              41.659908092985205
+            ],
+            [
+              -91.53742823966031,
+              41.659908092985205
+            ],
+            [
+              -91.53742823966031,
+              41.65990176614284
+            ],
+            [
+              -91.53739436568009,
+              41.65990176614284
+            ],
+            [
+              -91.53739436568009,
+              41.659876458766405
+            ],
+            [
+              -91.53744305952648,
+              41.659876458766405
+            ],
+            [
+              -91.53744305952648,
+              41.659908092985205
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "ad360167-3bf2-4273-842c-b7ca0ec5535e",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5374176540412,
+            41.65986222336318
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1422",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744305952648,
+              41.659876458766405
+            ],
+            [
+              -91.53739224855636,
+              41.659876458766405
+            ],
+            [
+              -91.53739224855636,
+              41.65984798795674
+            ],
+            [
+              -91.53744305952648,
+              41.65984798795674
+            ],
+            [
+              -91.53744305952648,
+              41.659876458766405
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53738589718513,
+            41.65981793542173
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1426",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744094240275,
+              41.65984798795674
+            ],
+            [
+              -91.53733932046289,
+              41.65984798795674
+            ],
+            [
+              -91.53733508621542,
+              41.65979262801295
+            ],
+            [
+              -91.53744094240275,
+              41.65979262801295
+            ],
+            [
+              -91.53744094240275,
+              41.65984798795674
+            ]
+          ]
+        ]
+      }
+    },
+
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53736472594774,
+            41.65985273309255
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1421",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53739224855636,
+              41.65984798795674
+            ],
+            [
+              -91.53739224855636,
+              41.65985747822805
+            ],
+            [
+              -91.53733932046289,
+              41.65985747822805
+            ],
+            [
+              -91.53733720333915,
+              41.65984798795674
+            ],
+            [
+              -91.53739224855636,
+              41.65984798795674
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5373562574528,
+            41.659778392591136
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1428",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744094240275,
+              41.65979262801295
+            ],
+            [
+              -91.53733720333915,
+              41.65979262801295
+            ],
+            [
+              -91.53733720333915,
+              41.659765738880225
+            ],
+            [
+              -91.53744094240275,
+              41.659765738880225
+            ],
+            [
+              -91.53744094240275,
+              41.65979262801295
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.537387216987,
+            41.65973696100431
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1430",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744111480385,
+              41.65976638714113
+            ],
+            [
+              -91.53733746515644,
+              41.65976483839745
+            ],
+            [
+              -91.53733746515644,
+              41.65975399719062
+            ],
+            [
+              -91.53733124617759,
+              41.65975399719062
+            ],
+            [
+              -91.53733124617759,
+              41.65971063234474
+            ],
+            [
+              -91.53744111480385,
+              41.65971063234474
+            ],
+            [
+              -91.53744111480385,
+              41.65976638714113
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53738514399406,
+            41.65968740116554
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1434",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744111480385,
+              41.65971063234474
+            ],
+            [
+              -91.53733124617759,
+              41.65971063234474
+            ],
+            [
+              -91.53733124617759,
+              41.659657974993195
+            ],
+            [
+              -91.53744111480385,
+              41.659657974993195
+            ],
+            [
+              -91.53744111480385,
+              41.65971063234474
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53738514399406,
+            41.65963319504817
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1438",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53744111480385,
+              41.659657974993195
+            ],
+            [
+              -91.53733124617759,
+              41.659657974993195
+            ],
+            [
+              -91.53733124617759,
+              41.65960067135532
+            ],
+            [
+              -91.53744111480385,
+              41.65959912260766
+            ],
+            [
+              -91.53744111480385,
+              41.659657974993195
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53724625346662,
+            41.65963474379504
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1437",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53731051624779,
+              41.65960067135532
+            ],
+            [
+              -91.53731051624779,
+              41.659657974993195
+            ],
+            [
+              -91.53718199068507,
+              41.659657974993195
+            ],
+            [
+              -91.53718199068507,
+              41.65960067135532
+            ],
+            [
+              -91.53731051624779,
+              41.65960067135532
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5372545454384,
+            41.65969359614749
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1433",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53731051624779,
+              41.659657974993195
+            ],
+            [
+              -91.53718199068507,
+              41.659657974993195
+            ],
+            [
+              -91.53718199068507,
+              41.65971372983461
+            ],
+            [
+              -91.53730844325486,
+              41.65971372983461
+            ],
+            [
+              -91.53731051624779,
+              41.659657974993195
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5372503994525,
+            41.65974160723724
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1431",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53730844325486,
+              41.65971372983461
+            ],
+            [
+              -91.53718199068507,
+              41.65971372983461
+            ],
+            [
+              -91.53718199068507,
+              41.65976638714113
+            ],
+            [
+              -91.53731258924073,
+              41.65976638714113
+            ],
+            [
+              -91.53730844325486,
+              41.65971372983461
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53727112938192,
+            41.659775679602376
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1442",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53731051624779,
+              41.65976638714113
+            ],
+            [
+              -91.53731051624779,
+              41.65978032583254
+            ],
+            [
+              -91.53723588850193,
+              41.65978032583254
+            ],
+            [
+              -91.53723588850193,
+              41.65976638714113
+            ],
+            [
+              -91.53731051624779,
+              41.65976638714113
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53720686660036,
+            41.65978032583254
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1449",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53723588850193,
+              41.65978032583254
+            ],
+            [
+              -91.53723588850193,
+              41.65976638714113
+            ],
+            [
+              -91.53718199068507,
+              41.65976638714113
+            ],
+            [
+              -91.53718199068507,
+              41.65979271577791
+            ],
+            [
+              -91.53722137755096,
+              41.65979271577791
+            ],
+            [
+              -91.53722345054389,
+              41.65978032583254
+            ],
+            [
+              -91.53723588850193,
+              41.65978032583254
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53720064762156,
+            41.659808203206296
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1447",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53722137755096,
+              41.65979271577791
+            ],
+            [
+              -91.53718199068507,
+              41.65979271577791
+            ],
+            [
+              -91.53718199068507,
+              41.659819044403946
+            ],
+            [
+              -91.53722137755096,
+              41.659819044403946
+            ],
+            [
+              -91.53722137755096,
+              41.65979271577791
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53720479360742,
+            41.65983453182602
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1445",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53722137755096,
+              41.659819044403946
+            ],
+            [
+              -91.53718199068507,
+              41.659819044403946
+            ],
+            [
+              -91.53718199068507,
+              41.659850019244374
+            ],
+            [
+              -91.53722345054389,
+              41.659850019244374
+            ],
+            [
+              -91.53722137755096,
+              41.659819044403946
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53720272061449,
+            41.659865506658946
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1443",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53722345054389,
+              41.659850019244374
+            ],
+            [
+              -91.53718199068507,
+              41.659850019244374
+            ],
+            [
+              -91.53718199068507,
+              41.65987479910595
+            ],
+            [
+              -91.53722345054389,
+              41.65987479910595
+            ],
+            [
+              -91.53722345054389,
+              41.659850019244374
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53721101258627,
+            41.6598980302181
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1441",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53722325687336,
+              41.65987395591415
+            ],
+            [
+              -91.53720017473435,
+              41.65987395591415
+            ],
+            [
+              -91.53720017473435,
+              41.65991158082511
+            ],
+            [
+              -91.53722325687336,
+              41.65991158082511
+            ],
+            [
+              -91.53722325687336,
+              41.65987395591415
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53716660071402,
+            41.659892768372686
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1401",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53720017473435,
+              41.65991158082511
+            ],
+            [
+              -91.53720017473435,
+              41.65987552361918
+            ],
+            [
+              -91.53711623968306,
+              41.65987552361918
+            ],
+            [
+              -91.53711623968306,
+              41.65990844541676
+            ],
+            [
+              -91.53712043643563,
+              41.65990844541676
+            ],
+            [
+              -91.53712043643563,
+              41.65991158082511
+            ],
+            [
+              -91.53720017473435,
+              41.65991158082511
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53717919097164,
+            41.6599429349003
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1402",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53711833805934,
+              41.65998212747283
+            ],
+            [
+              -91.53724633901274,
+              41.65998212747283
+            ],
+            [
+              -91.53724843738901,
+              41.659939799493486
+            ],
+            [
+              -91.53722325687336,
+              41.659939799493486
+            ],
+            [
+              -91.5372211584971,
+              41.65992725786464
+            ],
+            [
+              -91.53714561695128,
+              41.65992725786464
+            ],
+            [
+              -91.53714561695128,
+              41.6599366640865
+            ],
+            [
+              -91.53711833805934,
+              41.6599366640865
+            ],
+            [
+              -91.53711833805934,
+              41.65998212747283
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53726522439922,
+            41.65996017963516
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1406",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53727781465685,
+              41.659983695175214
+            ],
+            [
+              -91.53727781465685,
+              41.65994136719692
+            ],
+            [
+              -91.53724633901274,
+              41.65994136719692
+            ],
+            [
+              -91.53724633901274,
+              41.659983695175214
+            ],
+            [
+              -91.53727781465685,
+              41.659983695175214
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53730089679584,
+            41.65995861193218
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1408",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5373113886772,
+              41.659983695175214
+            ],
+            [
+              -91.5373113886772,
+              41.6599429349003
+            ],
+            [
+              -91.53727781465685,
+              41.6599429349003
+            ],
+            [
+              -91.53727781465685,
+              41.659983695175214
+            ],
+            [
+              -91.5373113886772,
+              41.659983695175214
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5373323724403,
+            41.65996174733809
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1410",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53734706107424,
+              41.65998212747283
+            ],
+            [
+              -91.53734706107424,
+              41.65994136719692
+            ],
+            [
+              -91.5373113886772,
+              41.65994136719692
+            ],
+            [
+              -91.5373113886772,
+              41.65998212747283
+            ],
+            [
+              -91.53734706107424,
+              41.65998212747283
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53737014321324,
+            41.65996017963516
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1412",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53739322535223,
+              41.659983695175214
+            ],
+            [
+              -91.53739322535223,
+              41.659969585852224
+            ],
+            [
+              -91.53738063509459,
+              41.65996801814947
+            ],
+            [
+              -91.53738063509459,
+              41.65994136719692
+            ],
+            [
+              -91.53734706107424,
+              41.65994136719692
+            ],
+            [
+              -91.53734706107424,
+              41.65998212747283
+            ],
+            [
+              -91.53739322535223,
+              41.659983695175214
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53732188055857,
+            41.65989903919075
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1440",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53737853671831,
+              41.65992725786464
+            ],
+            [
+              -91.53737853671831,
+              41.65987395591415
+            ],
+            [
+              -91.53724633901274,
+              41.65987395591415
+            ],
+            [
+              -91.53724633901274,
+              41.65992725786464
+            ],
+            [
+              -91.53737853671831,
+              41.65992725786464
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53728201140939,
+            41.659837898687755
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1423",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5373113886772,
+              41.65987395591415
+            ],
+            [
+              -91.5373113886772,
+              41.65981908621376
+            ],
+            [
+              -91.53724843738901,
+              41.65981908621376
+            ],
+            [
+              -91.53724843738901,
+              41.65987395591415
+            ],
+            [
+              -91.5373113886772,
+              41.65987395591415
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5372736179043,
+            41.659806544561405
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1400S",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5373113886772,
+              41.65981908621376
+            ],
+            [
+              -91.5373113886772,
+              41.659797138320556
+            ],
+            [
+              -91.53724843738901,
+              41.659797138320556
+            ],
+            [
+              -91.53724843738901,
+              41.65981908621376
+            ],
+            [
+              -91.5373113886772,
+              41.65981908621376
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53710994455426,
+            41.659864549683135
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1100S",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53711623968306,
+              41.65990844541676
+            ],
+            [
+              -91.5370910591678,
+              41.65990844541676
+            ],
+            [
+              -91.5370910591678,
+              41.65979870602746
+            ],
+            [
+              -91.53713512506953,
+              41.65979870602746
+            ],
+            [
+              -91.53713512506953,
+              41.65987395591415
+            ],
+            [
+              -91.53711623968306,
+              41.65987395591415
+            ],
+            [
+              -91.53711623968306,
+              41.65990844541676
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53710540797397,
+            41.659918247635744
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL05",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53711775980726,
+              41.65993208977861
+            ],
+            [
+              -91.53711775980726,
+              41.659909019538816
+            ],
+            [
+              -91.53709511477956,
+              41.659909019538816
+            ],
+            [
+              -91.53709511477956,
+              41.65993208977861
+            ],
+            [
+              -91.53711775980726,
+              41.65993208977861
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53702979165759,
+            41.659958841241405
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1138",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53709369330132,
+              41.65995088439047
+            ],
+            [
+              -91.53705109220576,
+              41.65995088439047
+            ],
+            [
+              -91.53705109220576,
+              41.65993337931491
+            ],
+            [
+              -91.53701701132891,
+              41.659931787944174
+            ],
+            [
+              -91.53701488127415,
+              41.659985894527324
+            ],
+            [
+              -91.53709369330132,
+              41.659985894527324
+            ],
+            [
+              -91.53709369330132,
+              41.65995088439047
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53699571078114,
+            41.65995565850119
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1136",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53701488127415,
+              41.659985894527324
+            ],
+            [
+              -91.53701488127415,
+              41.659931787944174
+            ],
+            [
+              -91.53698293045247,
+              41.659931787944174
+            ],
+            [
+              -91.53698293045247,
+              41.659985894527324
+            ],
+            [
+              -91.53701488127415,
+              41.659985894527324
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53696375995948,
+            41.6599572498713
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1134",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53698293045247,
+              41.659985894527324
+            ],
+            [
+              -91.53698293045247,
+              41.65993337931491
+            ],
+            [
+              -91.53694671952127,
+              41.65993337931491
+            ],
+            [
+              -91.53694671952127,
+              41.659985894527324
+            ],
+            [
+              -91.53698293045247,
+              41.659985894527324
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53692754902787,
+            41.65996043261151
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1132",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53694671952127,
+              41.659985894527324
+            ],
+            [
+              -91.53694671952127,
+              41.659931787944174
+            ],
+            [
+              -91.53690837853489,
+              41.659931787944174
+            ],
+            [
+              -91.53690837853489,
+              41.659985894527324
+            ],
+            [
+              -91.53694671952127,
+              41.659985894527324
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53689133809665,
+            41.659958841241405
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1130",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53690837853489,
+              41.65998430315793
+            ],
+            [
+              -91.53690837853489,
+              41.659931787944174
+            ],
+            [
+              -91.53687429765843,
+              41.659931787944174
+            ],
+            [
+              -91.53687429765843,
+              41.65998430315793
+            ],
+            [
+              -91.53690837853489,
+              41.65998430315793
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53685299711067,
+            41.65995406713097
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1128",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53687429765843,
+              41.65998430315793
+            ],
+            [
+              -91.53687429765843,
+              41.659931787944174
+            ],
+            [
+              -91.53683808672683,
+              41.659931787944174
+            ],
+            [
+              -91.53683808672683,
+              41.65998430315793
+            ],
+            [
+              -91.53687429765843,
+              41.65998430315793
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53681678617906,
+            41.659958841241405
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1126",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53683808672683,
+              41.65998430315793
+            ],
+            [
+              -91.53683808672683,
+              41.65993337931491
+            ],
+            [
+              -91.53680400585037,
+              41.65993337931491
+            ],
+            [
+              -91.53680400585037,
+              41.65998430315793
+            ],
+            [
+              -91.53683808672683,
+              41.65998430315793
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53706600258919,
+            41.65986813308166
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1141",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5370915632465,
+              41.659888820919264
+            ],
+            [
+              -91.5370915632465,
+              41.65984744523797
+            ],
+            [
+              -91.53705109220576,
+              41.65984744523797
+            ],
+            [
+              -91.53705109220576,
+              41.659888820919264
+            ],
+            [
+              -91.5370915632465,
+              41.659888820919264
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53703618182192,
+            41.65987927268702
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1139",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53704896215096,
+              41.65990473463552
+            ],
+            [
+              -91.53704896215096,
+              41.65984903661078
+            ],
+            [
+              -91.53702553154801,
+              41.65984903661078
+            ],
+            [
+              -91.53702553154801,
+              41.65990473463552
+            ],
+            [
+              -91.53704896215096,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53700423100025,
+            41.65988086405906
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1137",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53702553154801,
+              41.65990473463552
+            ],
+            [
+              -91.53702553154801,
+              41.65984744523797
+            ],
+            [
+              -91.5369914506716,
+              41.65984744523797
+            ],
+            [
+              -91.5369914506716,
+              41.65990473463552
+            ],
+            [
+              -91.53702553154801,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53696589001426,
+            41.659882455431074
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1135",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5369914506716,
+              41.65990473463552
+            ],
+            [
+              -91.5369914506716,
+              41.65984744523797
+            ],
+            [
+              -91.53694458946649,
+              41.65984744523797
+            ],
+            [
+              -91.53694458946649,
+              41.65990473463552
+            ],
+            [
+              -91.5369914506716,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53692541897311,
+            41.65987768131495
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1133",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53694458946649,
+              41.65990473463552
+            ],
+            [
+              -91.53694458946649,
+              41.65984744523797
+            ],
+            [
+              -91.53691050858964,
+              41.65984744523797
+            ],
+            [
+              -91.53691050858964,
+              41.65990473463552
+            ],
+            [
+              -91.53694458946649,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53689346815142,
+            41.65987927268702
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1131",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53691050858964,
+              41.65990473463552
+            ],
+            [
+              -91.53691050858964,
+              41.65984744523797
+            ],
+            [
+              -91.53687642771321,
+              41.65984744523797
+            ],
+            [
+              -91.53687642771321,
+              41.65990473463552
+            ],
+            [
+              -91.53691050858964,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53685938727499,
+            41.65988086405906
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1129",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53687642771321,
+              41.65990473463552
+            ],
+            [
+              -91.53687642771321,
+              41.65984744523797
+            ],
+            [
+              -91.53684447689116,
+              41.65984744523797
+            ],
+            [
+              -91.53684447689116,
+              41.65990473463552
+            ],
+            [
+              -91.53687642771321,
+              41.65990473463552
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5369062484801,
+            41.65983312288077
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1203",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5369616299047,
+              41.65984744523797
+            ],
+            [
+              -91.5369616299047,
+              41.659812435025856
+            ],
+            [
+              -91.53684447689116,
+              41.659812435025856
+            ],
+            [
+              -91.53684447689116,
+              41.65984744523797
+            ],
+            [
+              -91.5369616299047,
+              41.65984744523797
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53688281787754,
+            41.6598012954089
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL02",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53690411842531,
+              41.659812435025856
+            ],
+            [
+              -91.53690411842531,
+              41.65978856441578
+            ],
+            [
+              -91.53686151732978,
+              41.65978856441578
+            ],
+            [
+              -91.53686151732978,
+              41.659812435025856
+            ],
+            [
+              -91.53690411842531,
+              41.659812435025856
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53687429765843,
+            41.65977265067076
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1215",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5369616299047,
+              41.659814026399545
+            ],
+            [
+              -91.5369616299047,
+              41.659812435025856
+            ],
+            [
+              -91.5369616299047,
+              41.65975832829693
+            ],
+            [
+              -91.53684234683637,
+              41.65975832829693
+            ],
+            [
+              -91.53684234683637,
+              41.65978856441578
+            ],
+            [
+              -91.53690411842531,
+              41.65978856441578
+            ],
+            [
+              -91.53690411842531,
+              41.659812435025856
+            ],
+            [
+              -91.5369616299047,
+              41.659814026399545
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53689346815142,
+            41.65964693194658
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1231",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5369616299047,
+              41.65975832829693
+            ],
+            [
+              -91.5369616299047,
+              41.65953553540359
+            ],
+            [
+              -91.53684447689116,
+              41.65953553540359
+            ],
+            [
+              -91.53684447689116,
+              41.65975832829693
+            ],
+            [
+              -91.5369616299047,
+              41.65975832829693
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5368844213763,
+            41.65951173139388
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1233",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53694137522369,
+              41.659535370656016
+            ],
+            [
+              -91.53694137522369,
+              41.659481788315986
+            ],
+            [
+              -91.5368485615461,
+              41.659481788315986
+            ],
+            [
+              -91.5368485615461,
+              41.659535370656016
+            ],
+            [
+              -91.53694137522369,
+              41.659535370656016
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53688231197455,
+            41.65947075665218
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1235",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53696668804513,
+              41.659486516171285
+            ],
+            [
+              -91.53696668804513,
+              41.659453421176096
+            ],
+            [
+              -91.53684645214436,
+              41.659453421176096
+            ],
+            [
+              -91.53684645214436,
+              41.659486516171285
+            ],
+            [
+              -91.53696668804513,
+              41.659486516171285
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5368844213763,
+            41.65943923760179
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1237",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53696668804513,
+              41.659453421176096
+            ],
+            [
+              -91.53696668804513,
+              41.65942820593071
+            ],
+            [
+              -91.5368485615461,
+              41.65942820593071
+            ],
+            [
+              -91.5368485615461,
+              41.659453421176096
+            ],
+            [
+              -91.53696668804513,
+              41.659453421176096
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5368991871886,
+            41.65937777541032
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1245",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53696668804513,
+              41.65942820593071
+            ],
+            [
+              -91.53696668804513,
+              41.65931788911547
+            ],
+            [
+              -91.53685067094786,
+              41.65931788911547
+            ],
+            [
+              -91.53685067094786,
+              41.65942820593071
+            ],
+            [
+              -91.53696668804513,
+              41.65942820593071
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53690129659034,
+            41.65928636999084
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1249",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53696668804513,
+              41.65931788911547
+            ],
+            [
+              -91.53696668804513,
+              41.659261154680024
+            ],
+            [
+              -91.53685278035,
+              41.659261154680024
+            ],
+            [
+              -91.53685278035,
+              41.65931788911547
+            ],
+            [
+              -91.53696668804513,
+              41.65931788911547
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53688653077805,
+            41.659232787443585
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1253",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53696668804513,
+              41.659261154680024
+            ],
+            [
+              -91.53696668804513,
+              41.65920914807032
+            ],
+            [
+              -91.5368485615461,
+              41.65920914807032
+            ],
+            [
+              -91.5368485615461,
+              41.659261154680024
+            ],
+            [
+              -91.53696668804513,
+              41.659261154680024
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.536861217957,
+            41.65919338848332
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1257",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53687387436754,
+              41.65920914807032
+            ],
+            [
+              -91.53687387436754,
+              41.65917290101385
+            ],
+            [
+              -91.5368485615461,
+              41.65917290101385
+            ],
+            [
+              -91.5368485615461,
+              41.65920914807032
+            ],
+            [
+              -91.53687387436754,
+              41.65920914807032
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5368991871886,
+            41.659169749095014
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1259",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53687387436754,
+              41.65918550868838
+            ],
+            [
+              -91.53696457864336,
+              41.65918550868838
+            ],
+            [
+              -91.53696457864336,
+              41.65915556545821
+            ],
+            [
+              -91.53684645214436,
+              41.65915556545821
+            ],
+            [
+              -91.53684645214436,
+              41.65917290101385
+            ],
+            [
+              -91.53687387436754,
+              41.65917290101385
+            ],
+            [
+              -91.53687387436754,
+              41.65918550868838
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53673676325272,
+            41.65977649063586
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1220",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53681692051977,
+              41.65984740810481
+            ],
+            [
+              -91.53681692051977,
+              41.65968035794157
+            ],
+            [
+              -91.53664394957511,
+              41.65968035794157
+            ],
+            [
+              -91.53664394957511,
+              41.65984740810481
+            ],
+            [
+              -91.53681692051977,
+              41.65984740810481
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53679582650223,
+            41.65986316753177
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1247",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680637351101,
+              41.65987577507053
+            ],
+            [
+              -91.53680637351101,
+              41.65984740810481
+            ],
+            [
+              -91.53678106068995,
+              41.65984740810481
+            ],
+            [
+              -91.53678106068995,
+              41.65987577507053
+            ],
+            [
+              -91.53680637351101,
+              41.65987577507053
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53677262308292,
+            41.65986316753177
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL03",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53678106068995,
+              41.65987577507053
+            ],
+            [
+              -91.53678106068995,
+              41.65984740810481
+            ],
+            [
+              -91.53676207607418,
+              41.65984740810481
+            ],
+            [
+              -91.53676207607418,
+              41.65987577507053
+            ],
+            [
+              -91.53678106068995,
+              41.65987577507053
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53661441795056,
+            41.659886806665526
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1001",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680426410925,
+              41.65998451499064
+            ],
+            [
+              -91.5364920726484,
+              41.65998451499064
+            ],
+            [
+              -91.53649418205016,
+              41.659852135933335
+            ],
+            [
+              -91.53648363504139,
+              41.659852135933335
+            ],
+            [
+              -91.53648152563962,
+              41.659809585464444
+            ],
+            [
+              -91.53638660256027,
+              41.65980643357673
+            ],
+            [
+              -91.53638660256027,
+              41.65971030092712
+            ],
+            [
+              -91.53652793247822,
+              41.659708724980845
+            ],
+            [
+              -91.53652793247822,
+              41.65968193388849
+            ],
+            [
+              -91.53664394957511,
+              41.65968035794157
+            ],
+            [
+              -91.53664394957511,
+              41.65984740810481
+            ],
+            [
+              -91.53676207607418,
+              41.65984740810481
+            ],
+            [
+              -91.53676207607418,
+              41.65987577507053
+            ],
+            [
+              -91.53680637351101,
+              41.65987577507053
+            ],
+            [
+              -91.53680426410925,
+              41.65998451499064
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53646675982695,
+            41.65969611740937
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1310",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53652793247822,
+              41.659708724980845
+            ],
+            [
+              -91.53652793247822,
+              41.65968193388849
+            ],
+            [
+              -91.53638660256027,
+              41.65968193388849
+            ],
+            [
+              -91.53638660256027,
+              41.659708724980845
+            ],
+            [
+              -91.53652793247822,
+              41.659708724980845
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53651527606769,
+            41.65964883899434
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1308",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.536538479487,
+              41.6596661744172
+            ],
+            [
+              -91.536538479487,
+              41.65963307951495
+            ],
+            [
+              -91.53649840085365,
+              41.65963307951495
+            ],
+            [
+              -91.53649840085365,
+              41.6596661744172
+            ],
+            [
+              -91.536538479487,
+              41.6596661744172
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53644777521116,
+            41.659661446575086
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1306",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53649840085365,
+              41.65968193388849
+            ],
+            [
+              -91.53649629145188,
+              41.65963307951495
+            ],
+            [
+              -91.5364456658094,
+              41.65963307951495
+            ],
+            [
+              -91.5364456658094,
+              41.659640959255114
+            ],
+            [
+              -91.53638871196203,
+              41.659640959255114
+            ],
+            [
+              -91.53638871196203,
+              41.65968193388849
+            ],
+            [
+              -91.53649840085365,
+              41.65968193388849
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53657012051372,
+            41.65965671873258
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1312",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53658066752247,
+              41.65968193388849
+            ],
+            [
+              -91.53658066752247,
+              41.65963307951495
+            ],
+            [
+              -91.53655746410278,
+              41.65963307951495
+            ],
+            [
+              -91.53655746410278,
+              41.65968193388849
+            ],
+            [
+              -91.53658066752247,
+              41.65968193388849
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53661863675406,
+            41.659655142785
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1316",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5366502777804,
+              41.65968035794157
+            ],
+            [
+              -91.5366502777804,
+              41.65963150356677
+            ],
+            [
+              -91.53658066752247,
+              41.65963150356677
+            ],
+            [
+              -91.53658066752247,
+              41.65968035794157
+            ],
+            [
+              -91.5366502777804,
+              41.65968035794157
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53670723162816,
+            41.659655142785
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1324",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53677684188644,
+              41.65968035794157
+            ],
+            [
+              -91.53677684188644,
+              41.65963150356677
+            ],
+            [
+              -91.5366502777804,
+              41.65963150356677
+            ],
+            [
+              -91.5366502777804,
+              41.65968035794157
+            ],
+            [
+              -91.53677684188644,
+              41.65968035794157
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53679371710047,
+            41.659650414942064
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1326",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53681059231451,
+              41.65968035794157
+            ],
+            [
+              -91.53681059231451,
+              41.65963150356677
+            ],
+            [
+              -91.53677684188644,
+              41.65963150356677
+            ],
+            [
+              -91.53677684188644,
+              41.65968035794157
+            ],
+            [
+              -91.53681059231451,
+              41.65968035794157
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53642879059535,
+            41.65962519977376
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1300S",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5364456658094,
+              41.659640959255114
+            ],
+            [
+              -91.5364456658094,
+              41.659614168134596
+            ],
+            [
+              -91.53638871196203,
+              41.659614168134596
+            ],
+            [
+              -91.53638871196203,
+              41.659640959255114
+            ],
+            [
+              -91.5364456658094,
+              41.659640959255114
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53643511880064,
+            41.65958895295154
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1307",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5364920726484,
+              41.65961101623731
+            ],
+            [
+              -91.5364920726484,
+              41.65954009850745
+            ],
+            [
+              -91.53638871196203,
+              41.65954009850745
+            ],
+            [
+              -91.53638871196203,
+              41.65961101623731
+            ],
+            [
+              -91.5364920726484,
+              41.65961101623731
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53651738546945,
+            41.65957792130612
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1309",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53654480769227,
+              41.65961259218594
+            ],
+            [
+              -91.53654480769227,
+              41.65954009850745
+            ],
+            [
+              -91.5364920726484,
+              41.65954009850745
+            ],
+            [
+              -91.5364920726484,
+              41.65961259218594
+            ],
+            [
+              -91.53654480769227,
+              41.65961259218594
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53658910512951,
+            41.659573193457476
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1313",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53661652735232,
+              41.65961259218594
+            ],
+            [
+              -91.53661652735232,
+              41.65954009850745
+            ],
+            [
+              -91.53654480769227,
+              41.65954009850745
+            ],
+            [
+              -91.53654480769227,
+              41.65961259218594
+            ],
+            [
+              -91.53661652735232,
+              41.65961259218594
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53669246581586,
+            41.65957792130612
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1315",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53677684188644,
+              41.65961259218594
+            ],
+            [
+              -91.53677684188644,
+              41.65954009850745
+            ],
+            [
+              -91.53661652735232,
+              41.65954009850745
+            ],
+            [
+              -91.53661652735232,
+              41.65961259218594
+            ],
+            [
+              -91.53677684188644,
+              41.65961259218594
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53679371710047,
+            41.65959525674808
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1329",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680848291276,
+              41.65961259218594
+            ],
+            [
+              -91.53680848291276,
+              41.65957792130612
+            ],
+            [
+              -91.53677684188644,
+              41.65957792130612
+            ],
+            [
+              -91.53677684188644,
+              41.65961259218594
+            ],
+            [
+              -91.53680848291276,
+              41.65961259218594
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53679582650223,
+            41.659557433959606
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL01",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680848291276,
+              41.65957792130612
+            ],
+            [
+              -91.53680848291276,
+              41.65954009850745
+            ],
+            [
+              -91.53677684188644,
+              41.65954009850745
+            ],
+            [
+              -91.53677684188644,
+              41.65957792130612
+            ],
+            [
+              -91.53680848291276,
+              41.65957792130612
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53643933760415,
+            41.659469180700086
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1501",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53638871196203,
+              41.65954009850745
+            ],
+            [
+              -91.53638871196203,
+              41.65941559830429
+            ],
+            [
+              -91.53640136837255,
+              41.65941559830429
+            ],
+            [
+              -91.53640136837255,
+              41.65939668686008
+            ],
+            [
+              -91.53645832221994,
+              41.65939668686008
+            ],
+            [
+              -91.53645832221994,
+              41.659382503273264
+            ],
+            [
+              -91.5364878538449,
+              41.659382503273264
+            ],
+            [
+              -91.53648996324664,
+              41.65949597188089
+            ],
+            [
+              -91.53652793247822,
+              41.65949754783239
+            ],
+            [
+              -91.53652582307649,
+              41.65951015544272
+            ],
+            [
+              -91.53646254102344,
+              41.65951488329597
+            ],
+            [
+              -91.53646043162169,
+              41.65954009850745
+            ],
+            [
+              -91.53638871196203,
+              41.65954009850745
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53660176154001,
+            41.65944238950749
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1505",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.5364878538449,
+              41.659382503273264
+            ],
+            [
+              -91.53648996324664,
+              41.65949597188089
+            ],
+            [
+              -91.53661230854881,
+              41.65949597188089
+            ],
+            [
+              -91.53667980940533,
+              41.65949124402627
+            ],
+            [
+              -91.53668191880709,
+              41.659469180700086
+            ],
+            [
+              -91.53666082478917,
+              41.659469180700086
+            ],
+            [
+              -91.53666082478917,
+              41.659448693318325
+            ],
+            [
+              -91.53667980940533,
+              41.659448693318325
+            ],
+            [
+              -91.5366861376106,
+              41.65941087044379
+            ],
+            [
+              -91.53668191880709,
+              41.65938880709004
+            ],
+            [
+              -91.53660387094178,
+              41.65938407922752
+            ],
+            [
+              -91.5364878538449,
+              41.659382503273264
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53659332393302,
+            41.65933207271709
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1070",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53652371367471,
+              41.659382503273264
+            ],
+            [
+              -91.53665238718213,
+              41.659382503273264
+            ],
+            [
+              -91.53665238718213,
+              41.659295825729856
+            ],
+            [
+              -91.53652371367471,
+              41.659295825729856
+            ],
+            [
+              -91.53652371367471,
+              41.659382503273264
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53660387094178,
+            41.65926903446572
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1074",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53665238718213,
+              41.659295825729856
+            ],
+            [
+              -91.53665238718213,
+              41.65924381914812
+            ],
+            [
+              -91.536538479487,
+              41.65924224319045
+            ],
+            [
+              -91.53653637008524,
+              41.65927376233668
+            ],
+            [
+              -91.53640347777433,
+              41.65927376233668
+            ],
+            [
+              -91.53640136837255,
+              41.65939668686008
+            ],
+            [
+              -91.53645832221994,
+              41.65939668686008
+            ],
+            [
+              -91.53645832221994,
+              41.659382503273264
+            ],
+            [
+              -91.53652371367471,
+              41.659382503273264
+            ],
+            [
+              -91.53652371367471,
+              41.659295825729856
+            ],
+            [
+              -91.53665238718213,
+              41.659295825729856
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53651105726419,
+            41.65925800276551
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1082",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.536538479487,
+              41.65927376233668
+            ],
+            [
+              -91.536538479487,
+              41.65924224319045
+            ],
+            [
+              -91.53648574444314,
+              41.65924224319045
+            ],
+            [
+              -91.53648574444314,
+              41.65927376233668
+            ],
+            [
+              -91.536538479487,
+              41.65927376233668
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53646254102344,
+            41.65925485085077
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1084",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53648574444314,
+              41.65927376233668
+            ],
+            [
+              -91.53648574444314,
+              41.65924224319045
+            ],
+            [
+              -91.53644988461292,
+              41.65924224319045
+            ],
+            [
+              -91.53644988461292,
+              41.65927376233668
+            ],
+            [
+              -91.53648574444314,
+              41.65927376233668
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53642035298834,
+            41.659239091275
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1086",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53644988461292,
+              41.65927376233668
+            ],
+            [
+              -91.53644988461292,
+              41.6592233316953
+            ],
+            [
+              -91.53640347777433,
+              41.6592233316953
+            ],
+            [
+              -91.53640347777433,
+              41.65927376233668
+            ],
+            [
+              -91.53644988461292,
+              41.65927376233668
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53643722820239,
+            41.65918078081094
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1085",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53646254102344,
+              41.6592233316953
+            ],
+            [
+              -91.53646254102344,
+              41.659124046254135
+            ],
+            [
+              -91.53640347777433,
+              41.659124046254135
+            ],
+            [
+              -91.53640347777433,
+              41.6592233316953
+            ],
+            [
+              -91.53646254102344,
+              41.6592233316953
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5367641854759,
+            41.65947233260425
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1525",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680848291276,
+              41.65948336426777
+            ],
+            [
+              -91.53680848291276,
+              41.659458149033526
+            ],
+            [
+              -91.53670723162816,
+              41.659458149033526
+            ],
+            [
+              -91.53670723162816,
+              41.65948336426777
+            ],
+            [
+              -91.53680848291276,
+              41.65948336426777
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53675363846675,
+            41.65944711736569
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1523",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680848291276,
+              41.659458149033526
+            ],
+            [
+              -91.53680848291276,
+              41.65944081355465
+            ],
+            [
+              -91.53674098205623,
+              41.65944081355465
+            ],
+            [
+              -91.53674098205623,
+              41.659458149033526
+            ],
+            [
+              -91.53680848291276,
+              41.659458149033526
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53672621624393,
+            41.659448693318325
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1521",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53674098205623,
+              41.659458149033526
+            ],
+            [
+              -91.53674098205623,
+              41.65943923760179
+            ],
+            [
+              -91.53670723162816,
+              41.65943923760179
+            ],
+            [
+              -91.53670723162816,
+              41.659458149033526
+            ],
+            [
+              -91.53674098205623,
+              41.659458149033526
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53676840427941,
+            41.659425054024325
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1242",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53680848291276,
+              41.65944081355465
+            ],
+            [
+              -91.53680848291276,
+              41.659407718536556
+            ],
+            [
+              -91.53670723162816,
+              41.659407718536556
+            ],
+            [
+              -91.53670723162816,
+              41.65944081355465
+            ],
+            [
+              -91.53680848291276,
+              41.65944081355465
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5367641854759,
+            41.65937147159249
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1246",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53681481111802,
+              41.659407718536556
+            ],
+            [
+              -91.53681481111802,
+              41.65933207271709
+            ],
+            [
+              -91.53670723162816,
+              41.65933207271709
+            ],
+            [
+              -91.53670723162816,
+              41.659407718536556
+            ],
+            [
+              -91.53681481111802,
+              41.659407718536556
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.5367599666724,
+            41.65931158529176
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1248",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53681481111802,
+              41.65933207271709
+            ],
+            [
+              -91.53681481111802,
+              41.65929109786052
+            ],
+            [
+              -91.53670723162816,
+              41.65929109786052
+            ],
+            [
+              -91.53670723162816,
+              41.65933207271709
+            ],
+            [
+              -91.53681481111802,
+              41.65933207271709
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53676207607418,
+            41.65923121148563
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1256",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53681481111802,
+              41.65929109786052
+            ],
+            [
+              -91.53681481111802,
+              41.659157141418035
+            ],
+            [
+              -91.53670723162816,
+              41.659157141418035
+            ],
+            [
+              -91.53670723162816,
+              41.65929109786052
+            ],
+            [
+              -91.53681481111802,
+              41.65929109786052
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53661652735232,
+            41.65919338848332
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1078",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53665238718213,
+              41.65922490765345
+            ],
+            [
+              -91.53665238718213,
+              41.65916029333752
+            ],
+            [
+              -91.53658277692423,
+              41.65916029333752
+            ],
+            [
+              -91.53658277692423,
+              41.65922490765345
+            ],
+            [
+              -91.53665238718213,
+              41.65922490765345
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53651949487119,
+            41.65914768565864
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "1090",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53659332393302,
+              41.65916029333752
+            ],
+            [
+              -91.53659332393302,
+              41.659124046254135
+            ],
+            [
+              -91.53646254102344,
+              41.659124046254135
+            ],
+            [
+              -91.53646254102344,
+              41.65916029333752
+            ],
+            [
+              -91.53659332393302,
+              41.65916029333752
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53655746410278,
+            41.65919654040104
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL06",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53658277692423,
+              41.65922490765345
+            ],
+            [
+              -91.53658277692423,
+              41.65918550868838
+            ],
+            [
+              -91.53654058888874,
+              41.65918550868838
+            ],
+            [
+              -91.53654058888874,
+              41.65922490765345
+            ],
+            [
+              -91.53658277692423,
+              41.65922490765345
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53655113589753,
+            41.65917290101385
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XEL07",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53658366178668,
+              41.65918596312889
+            ],
+            [
+              -91.53658366178668,
+              41.659160505287105
+            ],
+            [
+              -91.5365417354691,
+              41.659160505287105
+            ],
+            [
+              -91.5365417354691,
+              41.65918596312889
+            ],
+            [
+              -91.53658366178668,
+              41.65918596312889
+            ]
+          ]
+        ]
+      }
+    },
+    
+
+
+    {
+      "type": "Feature",
+      "feature_type": "unit",
+      "id": "388903cd-d5da-430c-8069-f5911debb6a7",
+      "properties": {
+        "accessibility": null,
+        "alt_name": null,
+        "category": "classroom",
+        "display_point": {
+          "coordinates": [
+            -91.53648656707972,
+            41.65919170732013
+          ],
+          "type": "Point"
+        },
+        "level_id": "1f97ee2d-e09b-4737-8ccd-6eb15c1f5541",
+        "name": "XST151",
+        "restriction": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.53650313249338,
+              41.65922174693813
+            ],
+            [
+              -91.53650313249338,
+              41.65916005528882
+            ],
+            [
+              -91.53646368992817,
+              41.65916005528882
+            ],
+            [
+              -91.53646368992817,
+              41.65922174693813
+            ],
+            [
+              -91.53650313249338,
+              41.65922174693813
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
