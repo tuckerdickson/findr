@@ -5,20 +5,20 @@
             "geometry": null,
             "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e38",
             "properties": {
-                "address_id": null,
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
                 "alt_name": null,
-                "anchor_id": "bc57ca27-c994-4cba-8fae-10c8a52032d1",
+                "anchor_id": "2c626542-ae06-4eb6-8572-509756c3c8b9",
                 "category": "restaurant",
                 "display_point": {
                     "coordinates": [
-                       -121.8878608,
-                        37.3294221
+                        -91.53741951023787,
+                        41.659966743458625
                       ],
                     "type": "Point"
                 },
                 "hours": "Su-Sa 09:00-17:00",
                 "name": {
-                    "en": "Jurassic Table"
+                    "en": "1414"
                 },
                 "phone": "+14087924511",
                 "restriction": null,
@@ -26,35 +26,7 @@
                 "correlation_id": null
             },
             "type": "Feature"
-        },
-        {
-            "feature_type": "occupant",
-            "geometry": null,
-            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e39",
-            "properties": {
-                "address_id": null,
-                "alt_name": null,
-                "anchor_id": "76336b53-81c9-4c93-8f81-a4c008d54ba1",
-                "category": "shopping",
-                "display_point": {
-                    "coordinates": [
-	                    -121.889609,
-	                    37.329678
-                      ],
-                    "type": "Point"
-                },
-                "hours": "Su-Sa 09:00-17:00",
-                "name": {
-                    "en": "Dinoshop"
-                },
-                "phone": "+14087924512",
-                "restriction": null,
-                "website": null,
-                "correlation_id": null
-            },
-            "type": "Feature"
-        }
-        
+        }  
     ],
     "name": "Occupant",
     "type": "FeatureCollection"
