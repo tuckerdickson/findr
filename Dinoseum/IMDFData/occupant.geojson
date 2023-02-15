@@ -1,0 +1,33 @@
+{
+    "features": [
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "5ac4bf40-2dbf-4bdb-9c39-495c442b7e38",
+            "properties": {
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
+                "alt_name": null,
+                "anchor_id": "2c626542-ae06-4eb6-8572-509756c3c8b9",
+                "category": "restaurant",
+                "display_point": {
+                    "coordinates": [
+                        -91.53741951023787,
+                        41.659966743458625
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Su-Sa 09:00-17:00",
+                "name": {
+                    "en": "1414"
+                },
+                "phone": "+14087924511",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
+        }  
+    ],
+    "name": "Occupant",
+    "type": "FeatureCollection"
+}

@@ -1,0 +1,73 @@
+{
+    "features": [
+        {
+            "feature_type": "venue",
+            "geometry": {
+                "coordinates": [
+                  [
+                    [
+                      -91.53747306138553,
+                      41.6599962834502
+                    ],
+                    [
+                      -91.53747602624,
+                      41.659564347258225
+                    ],
+                    [
+                      -91.53697348343098,
+                      41.65956323972574
+                    ],
+                    [
+                      -91.53698155924332,
+                      41.6590679429047
+                    ],
+                    [
+                      -91.5366549769126,
+                      41.659065754617785
+                    ],
+                    [
+                      -91.53665774420976,
+                      41.65834705341527
+                    ],
+                    [
+                      -91.53631871162624,
+                      41.65834540861988
+                    ],
+                    [
+                      -91.53630934852724,
+                      41.65999143459416
+                    ],
+                    [
+                      -91.53747306138553,
+                      41.6599962834502
+                    ]
+                  ]
+                ],
+                "type": "Polygon"
+            },
+            "id": "c3ec5ea2-8839-434a-a7a8-34dbe35c9a4c",
+            "properties": {
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
+                "alt_name": null,
+                "category": "university",
+                "display_point": {
+                    "coordinates": [
+                        -91.53672770348507,
+                        41.65943912197582
+                    ],
+                    "type": "Point"
+                },
+                "hours": "Mo-Fr 07:00-19:00",
+                "name": {
+                    "en": "Seamans Center"
+                },
+                "phone": null,
+                "restriction": null,
+                "website": "https://engineering.uiowa.edu/"
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "venue",
+    "type": "FeatureCollection"
+}
