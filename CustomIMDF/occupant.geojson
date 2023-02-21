@@ -26,6 +26,33 @@
                 "correlation_id": null
             },
             "type": "Feature"
+        },
+        {
+            "feature_type": "occupant",
+            "geometry": null,
+            "id": "b31a6e6d-3133-417e-850f-d6948a77070b",
+            "properties": {
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
+                "alt_name": null,
+                "anchor_id": "2c626542-ae06-4eb6-8572-509756c3c8b9",
+                "category": "restaurant",
+                "display_point": {
+                    "coordinates": [
+                        -91.53741977116496,
+                        41.65993972718795
+                      ],
+                    "type": "Point"
+                },
+                "hours": "Su-Sa 09:00-17:00",
+                "name": {
+                    "en": "1416"
+                },
+                "phone": "+14087924511",
+                "restriction": null,
+                "website": null,
+                "correlation_id": null
+            },
+            "type": "Feature"
         }  
     ],
     "name": "Occupant",
