@@ -15,6 +15,22 @@
                 "unit_id": "83607ce9-ceab-4c84-b90d-41258068a383"
             },
             "type": "Feature"
+        },
+        {
+            "feature_type": "anchor",
+            "geometry": {
+                "coordinates": [
+                    -91.53741977116496,
+                    41.65993972718795
+                ],
+                "type": "Point"
+            },
+            "id": "2666a528-4936-450c-b6c7-4f0b35289299",
+            "properties": {
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
+                "unit_id": "f84c6628-e067-4dbc-a434-db57cc365ce9"
+            },
+            "type": "Feature"
         }
     ],
     "name": "Anchor",
