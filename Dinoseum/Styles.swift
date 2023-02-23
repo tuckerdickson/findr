@@ -101,7 +101,7 @@ extension Occupant: StylableFeature {
         if let category = StylableCategory(rawValue: self.properties.category) {
             switch category {
             case .restaurant:
-                annotationView.backgroundColor = UIColor(red: 1, green: 0, blue: 0, alpha: 1)
+                annotationView.backgroundColor = UIColor(named: "RestaurantFill")
             case .shopping:
                 annotationView.backgroundColor = UIColor(named: "ShoppingFill")
             }
