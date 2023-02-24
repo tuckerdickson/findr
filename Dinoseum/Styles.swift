@@ -73,14 +73,14 @@ extension Opening: StylableFeature {
 
 extension Amenity: StylableFeature {
     private enum StylableCategory: String {
-        case exhibit
+        case bathroom
     }
     
     func configure(annotationView: MKAnnotationView) {
         if let category = StylableCategory(rawValue: self.properties.category) {
             switch category {
-            case .exhibit:
-                annotationView.backgroundColor = UIColor(named: "ExhibitFill")
+            case .bathroom:
+                annotationView.backgroundColor = UIColor(named: "BathroomFill")
             }
         } else {
             annotationView.backgroundColor = UIColor(named: "DefaultAmenityFill")
@@ -93,17 +93,26 @@ extension Amenity: StylableFeature {
 
 extension Occupant: StylableFeature {
     private enum StylableCategory: String {
-        case restaurant
-        case shopping
+        case classroom
+        case auditorium
+        case lab
+        case office
+        case conference
     }
 
     func configure(annotationView: MKAnnotationView) {
         if let category = StylableCategory(rawValue: self.properties.category) {
             switch category {
-            case .restaurant:
-                annotationView.backgroundColor = UIColor(named: "RestaurantFill")
-            case .shopping:
-                annotationView.backgroundColor = UIColor(named: "ShoppingFill")
+            case .classroom:
+                annotationView.backgroundColor = UIColor(named: "ClassroomFill")
+            case .auditorium:
+                annotationView.backgroundColor = UIColor(named: "AuditoriumFill")
+            case .office:
+                annotationView.backgroundColor = UIColor(named: "OfficeFill")
+            case .lab:
+                annotationView.backgroundColor = UIColor(named: "LabFill")
+            case .conference:
+                annotationView.backgroundColor = UIColor(named: "ConferenceFill")
             }
         }
 
