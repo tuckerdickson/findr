@@ -98,6 +98,7 @@ extension Occupant: StylableFeature {
         case lab
         case office
         case conference
+        case library
     }
 
     func configure(annotationView: MKAnnotationView) {
@@ -113,6 +114,8 @@ extension Occupant: StylableFeature {
                 annotationView.backgroundColor = UIColor(named: "LabFill")
             case .conference:
                 annotationView.backgroundColor = UIColor(named: "ConferenceFill")
+            case .library:
+                annotationView.backgroundColor = UIColor(named: "LibraryFill")
             }
         }
 
