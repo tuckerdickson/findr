@@ -11,7 +11,7 @@
  */
 
 import Foundation
-import Mapkit
+import MapKit
 
 class Amenity: Feature<Amenity.Properties>, MKAnnotation {
     // defines properties specific to Amenity

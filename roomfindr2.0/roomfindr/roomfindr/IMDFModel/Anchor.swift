@@ -15,7 +15,7 @@ import Foundation
 class Anchor: Feature<Anchor.Properties> {
     // properties specific to Anchor
     struct Properties: Codable {
-        let addressId: String//?            // unique ID of the associated address
-        let unitId = UUID                   // unique ID of the associated unit
+        let addressId: String?            // unique ID of the associated address
+        let unitId: UUID                 // unique ID of the associated unit
     }
 }

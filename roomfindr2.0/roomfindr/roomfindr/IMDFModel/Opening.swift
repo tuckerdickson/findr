@@ -12,7 +12,7 @@
 
 import Foundation
 
-class Opening {
+class Opening: Feature<Opening.Properties> {
     // properties specific to Opening
     struct Properties: Codable {
         let category: String            // type of opening

@@ -106,11 +106,11 @@
 				A240057D29AA751300D7E5DD /* AppDelegate.swift */,
 				A240057F29AA751300D7E5DD /* SceneDelegate.swift */,
 				A227625529AA83A800FD05A0 /* ViewController.swift */,
+				A28EC76929AAE74C00650358 /* IMDFDecoder.swift */,
 				A240058329AA751300D7E5DD /* Main.storyboard */,
 				A240058629AA751500D7E5DD /* Assets.xcassets */,
 				A240058829AA751500D7E5DD /* LaunchScreen.storyboard */,
 				A240058B29AA751500D7E5DD /* Info.plist */,
-				A28EC76929AAE74C00650358 /* IMDFDecoder.swift */,
 			);
 			path = roomfindr;
 			sourceTree = "<group>";
