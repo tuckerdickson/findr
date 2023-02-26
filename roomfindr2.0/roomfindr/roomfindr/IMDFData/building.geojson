@@ -1,0 +1,28 @@
+{
+    "features": [
+        {
+            "feature_type": "building",
+            "geometry": null,
+            "id": "f78371df-6a7c-4360-8803-7aa9bfb242ba",
+            "properties": {
+                "address_id": "699f17f4-a0c1-495b-aa51-0aad3d37863b",
+                "alt_name": null,
+                "category": "unspecified",
+                "display_point": {
+                    "coordinates": [
+                        -91.53672770348507,
+                        41.65943912197582
+                    ],
+                    "type": "Point"
+                },
+                "name": {
+                    "en": "Seamans Center for the Engineering Arts and Sciences"
+                },
+                "restriction": null
+            },
+            "type": "Feature"
+        }
+    ],
+    "name": "building",
+    "type": "FeatureCollection"
+}
